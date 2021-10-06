@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gunter.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gunter Down0000" x="0" y="0" width="285" height="266" frameX="0" frameY="-32" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0001" x="295" y="0" width="272" height="272" frameX="-3" frameY="-26" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0002" x="577" y="0" width="250" height="291" frameX="-19" frameY="-7" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0003" x="837" y="0" width="241" height="296" frameX="-25" frameY="-2" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0004" x="1088" y="0" width="232" height="297" frameX="-34" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0005" x="1330" y="0" width="222" height="298" frameX="-44" frameY="0" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0006" x="1562" y="0" width="215" height="298" frameX="-51" frameY="0" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0007" x="1787" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0008" x="2007" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0009" x="2227" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0010" x="2227" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0011" x="2447" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Down0012" x="2447" y="0" width="210" height="297" frameX="-56" frameY="-1" frameWidth="285" frameHeight="298"/>
+	<SubTexture name="Gunter Left0000" x="2667" y="0" width="448" height="295" frameX="0" frameY="0" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0001" x="3125" y="0" width="389" height="295" frameX="-63" frameY="0" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0002" x="3524" y="0" width="368" height="295" frameX="-91" frameY="0" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0003" x="0" y="308" width="368" height="295" frameX="-92" frameY="0" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0004" x="378" y="308" width="367" height="293" frameX="-93" frameY="-2" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0005" x="755" y="308" width="368" height="292" frameX="-93" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0006" x="1133" y="308" width="368" height="292" frameX="-92" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0007" x="1511" y="308" width="369" height="292" frameX="-91" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0008" x="1890" y="308" width="370" height="292" frameX="-89" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0009" x="2270" y="308" width="370" height="292" frameX="-89" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0010" x="2650" y="308" width="370" height="292" frameX="-89" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0011" x="2650" y="308" width="370" height="292" frameX="-89" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0012" x="3030" y="308" width="371" height="292" frameX="-88" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0013" x="3030" y="308" width="371" height="292" frameX="-88" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Left0014" x="3030" y="308" width="371" height="292" frameX="-88" frameY="-3" frameWidth="461" frameHeight="295"/>
+	<SubTexture name="Gunter Right0000" x="3411" y="308" width="403" height="321" frameX="-19" frameY="-17" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0001" x="0" y="639" width="372" height="330" frameX="-15" frameY="-8" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0002" x="382" y="639" width="344" height="338" frameX="-9" frameY="0" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0003" x="736" y="639" width="345" height="337" frameX="-6" frameY="-1" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0004" x="1091" y="639" width="344" height="336" frameX="-4" frameY="-2" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0005" x="1445" y="639" width="345" height="335" frameX="-2" frameY="-3" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0006" x="1800" y="639" width="344" height="333" frameX="-2" frameY="-5" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0007" x="2154" y="639" width="345" height="333" frameX="0" frameY="-5" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0008" x="2509" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0009" x="2864" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0010" x="3219" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0011" x="3574" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0012" x="3574" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Right0013" x="3574" y="639" width="345" height="332" frameX="0" frameY="-6" frameWidth="422" frameHeight="338"/>
+	<SubTexture name="Gunter Up0000" x="0" y="987" width="378" height="466"/>
+	<SubTexture name="Gunter Up0001" x="388" y="987" width="349" height="402" frameX="-23" frameY="-64" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0002" x="747" y="987" width="330" height="350" frameX="-24" frameY="-116" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0003" x="1087" y="987" width="333" height="348" frameX="-23" frameY="-118" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0004" x="1430" y="987" width="337" height="346" frameX="-22" frameY="-120" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0005" x="1777" y="987" width="338" height="345" frameX="-22" frameY="-121" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0006" x="2125" y="987" width="338" height="345" frameX="-22" frameY="-121" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0007" x="2473" y="987" width="341" height="343" frameX="-21" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0008" x="2824" y="987" width="343" height="343" frameX="-20" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0009" x="3177" y="987" width="345" height="343" frameX="-19" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0010" x="3532" y="987" width="346" height="343" frameX="-19" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0011" x="0" y="1463" width="346" height="343" frameX="-19" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0012" x="356" y="1463" width="347" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0013" x="713" y="1463" width="347" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0014" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0015" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0016" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0017" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0018" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0019" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0020" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0021" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0022" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0023" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0024" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0025" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0026" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0027" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0028" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0029" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0030" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0031" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0032" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0033" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0034" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0035" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0036" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0037" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0038" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0039" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0040" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0041" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0042" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0043" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0044" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0045" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0046" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0047" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0048" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0049" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0050" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0051" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0052" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0053" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0054" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0055" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0056" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0057" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0058" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0059" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0060" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0061" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0062" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0063" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0064" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0065" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0066" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0067" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0068" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0069" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0070" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0071" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0072" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0073" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0074" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0075" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0076" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0077" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0078" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0079" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0080" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0081" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0082" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0083" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0084" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0085" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0086" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0087" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0088" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0089" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0090" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0091" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0092" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0093" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0094" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0095" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0096" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0097" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0098" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunter Up0099" x="1070" y="1463" width="348" height="343" frameX="-18" frameY="-123" frameWidth="378" frameHeight="466"/>
+	<SubTexture name="Gunther Base Idle0000" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0001" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0002" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0003" x="2091" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0004" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0005" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0006" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0007" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0008" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0009" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0010" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0011" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0012" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0013" x="3446" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0014" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0015" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0016" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0017" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0018" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0019" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0020" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0021" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0022" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0023" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0024" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0025" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0026" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0027" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0028" x="2091" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0029" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0030" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0031" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0032" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0033" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0034" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0035" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0036" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0037" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0038" x="3446" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0039" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0040" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0041" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0042" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0043" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0044" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0045" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0046" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0047" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0048" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0049" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0050" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0051" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0052" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0053" x="2091" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0054" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0055" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0056" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0057" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0058" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0059" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0060" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0061" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0062" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0063" x="3446" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0064" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0065" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0066" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0067" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0068" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0069" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0070" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0071" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0072" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0073" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0074" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0075" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0076" x="0" y="1816" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0077" x="221" y="1816" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0078" x="442" y="1816" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0079" x="663" y="1816" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0080" x="885" y="1816" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0081" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0082" x="2761" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0083" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0084" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0085" x="2989" y="1463" width="219" height="295"/>
+	<SubTexture name="Gunther Base Idle0086" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0087" x="3218" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0088" x="3446" y="1463" width="218" height="295" frameX="-1" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0089" x="2534" y="1463" width="217" height="295" frameX="-2" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0090" x="2312" y="1463" width="212" height="295" frameX="-7" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0091" x="1870" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0092" x="1649" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0093" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0094" x="1428" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0095" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0096" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0097" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0098" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther Base Idle0099" x="3674" y="1463" width="211" height="295" frameX="-8" frameY="0" frameWidth="219" frameHeight="295"/>
+	<SubTexture name="Gunther BottleBreak0000" x="1112" y="1816" width="213" height="292" frameX="-53" frameY="-19" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0001" x="1335" y="1816" width="215" height="291" frameX="-52" frameY="-20" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0002" x="1560" y="1816" width="217" height="290" frameX="-51" frameY="-21" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0003" x="1560" y="1816" width="217" height="290" frameX="-51" frameY="-21" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0004" x="1335" y="1816" width="215" height="291" frameX="-52" frameY="-20" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0005" x="1787" y="1816" width="213" height="292" frameX="-53" frameY="-19" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0006" x="2010" y="1816" width="213" height="296" frameX="-54" frameY="-15" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0007" x="2233" y="1816" width="224" height="300" frameX="-54" frameY="-11" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0008" x="2467" y="1816" width="228" height="301" frameX="-54" frameY="-10" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0009" x="2705" y="1816" width="238" height="306" frameX="-49" frameY="-5" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0010" x="2953" y="1816" width="244" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0011" x="3207" y="1816" width="249" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0012" x="3466" y="1816" width="255" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0013" x="3731" y="1816" width="260" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0014" x="0" y="2133" width="260" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0015" x="270" y="2133" width="260" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0016" x="540" y="2133" width="261" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0017" x="811" y="2133" width="261" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0018" x="1082" y="2133" width="261" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0019" x="1353" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0020" x="1353" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0021" x="1625" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0022" x="1625" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0023" x="1897" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0024" x="1897" y="2133" width="262" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0025" x="2169" y="2133" width="263" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0026" x="2169" y="2133" width="263" height="307" frameX="-49" frameY="-4" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0027" x="2442" y="2133" width="264" height="310" frameX="-48" frameY="-1" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0028" x="2716" y="2133" width="309" height="311" frameX="-3" frameY="0" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0029" x="3035" y="2133" width="312" height="311" frameX="-1" frameY="0" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0030" x="3357" y="2133" width="312" height="311" frameX="-1" frameY="0" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0031" x="3679" y="2133" width="313" height="311" frameX="0" frameY="0" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0032" x="0" y="2454" width="360" height="302" frameX="-60" frameY="-9" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0033" x="370" y="2454" width="290" height="278" frameX="-77" frameY="-33" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0034" x="670" y="2454" width="248" height="273" frameX="-82" frameY="-38" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0035" x="928" y="2454" width="223" height="273" frameX="-63" frameY="-38" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0036" x="1161" y="2454" width="217" height="276" frameX="-44" frameY="-35" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0037" x="1388" y="2454" width="218" height="283" frameX="-43" frameY="-28" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0038" x="1616" y="2454" width="215" height="285" frameX="-50" frameY="-26" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0039" x="1616" y="2454" width="215" height="285" frameX="-50" frameY="-26" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0040" x="1841" y="2454" width="215" height="284" frameX="-52" frameY="-27" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0041" x="1841" y="2454" width="215" height="284" frameX="-52" frameY="-27" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0042" x="1841" y="2454" width="215" height="284" frameX="-52" frameY="-27" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0043" x="2066" y="2454" width="215" height="284" frameX="-52" frameY="-27" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0044" x="2066" y="2454" width="215" height="284" frameX="-52" frameY="-27" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0045" x="2291" y="2454" width="215" height="285" frameX="-52" frameY="-26" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0046" x="2516" y="2454" width="215" height="287" frameX="-52" frameY="-24" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0047" x="2741" y="2454" width="215" height="289" frameX="-52" frameY="-22" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0048" x="2966" y="2454" width="213" height="291" frameX="-53" frameY="-20" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther BottleBreak0049" x="3189" y="2454" width="213" height="293" frameX="-53" frameY="-18" frameWidth="420" frameHeight="311"/>
+	<SubTexture name="Gunther Gasp0000" x="3412" y="2454" width="212" height="295" frameX="-23" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0001" x="3634" y="2454" width="212" height="295" frameX="-23" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0002" x="0" y="2766" width="260" height="295" frameX="0" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0003" x="270" y="2766" width="228" height="295" frameX="-36" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0004" x="508" y="2766" width="229" height="295" frameX="-36" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0005" x="747" y="2766" width="266" height="295" frameX="0" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0006" x="1023" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0007" x="1263" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0008" x="1503" y="2766" width="267" height="295"/>
+	<SubTexture name="Gunther Gasp0009" x="1780" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0010" x="1263" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0011" x="1503" y="2766" width="267" height="295"/>
+	<SubTexture name="Gunther Gasp0012" x="1780" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0013" x="1263" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0014" x="2020" y="2766" width="230" height="295" frameX="-37" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0015" x="2260" y="2766" width="267" height="295"/>
+	<SubTexture name="Gunther Gasp0016" x="2537" y="2766" width="239" height="295" frameX="-28" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0017" x="2786" y="2766" width="231" height="295" frameX="-29" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0018" x="3027" y="2766" width="213" height="295" frameX="-23" frameY="0" frameWidth="267" frameHeight="295"/>
+	<SubTexture name="Gunther Gasp0019" x="3412" y="2454" width="212" height="295" frameX="-23" frameY="0" frameWidth="267" frameHeight="295"/>
+</TextureAtlas>

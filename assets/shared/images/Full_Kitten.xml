@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Full Kitten.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kitten0000" x="0" y="0" width="601" height="585" frameX="-2" frameY="-35" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0001" x="611" y="0" width="605" height="583" frameX="0" frameY="-36" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0002" x="611" y="0" width="605" height="583" frameX="0" frameY="-36" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0003" x="611" y="0" width="605" height="583" frameX="0" frameY="-36" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0004" x="1226" y="0" width="601" height="584" frameX="-2" frameY="-35" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0005" x="1226" y="0" width="601" height="584" frameX="-2" frameY="-35" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0006" x="0" y="595" width="592" height="592" frameX="-7" frameY="-30" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0007" x="602" y="595" width="582" height="607" frameX="-13" frameY="-18" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0008" x="602" y="595" width="582" height="607" frameX="-13" frameY="-18" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0009" x="602" y="595" width="582" height="607" frameX="-13" frameY="-18" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0010" x="602" y="595" width="582" height="607" frameX="-13" frameY="-18" frameWidth="605" frameHeight="625"/>
+	<SubTexture name="Kitten0011" x="1194" y="595" width="531" height="621" frameX="-30" frameY="0" frameWidth="605" frameHeight="625"/>
+</TextureAtlas>

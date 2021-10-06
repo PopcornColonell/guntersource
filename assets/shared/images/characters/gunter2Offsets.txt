@@ -1,0 +1,6 @@
+idle 0 0
+singUP 100 209
+singRIGHT -12 53
+singLEFT 199 0
+singDOWN 57 2
+prepare 90 84

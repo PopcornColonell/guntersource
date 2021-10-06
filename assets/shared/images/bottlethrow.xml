@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottlethrow.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bottlethrow0000" x="0" y="0" width="251" height="284" frameX="0" frameY="0" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0001" x="0" y="0" width="251" height="284" frameX="0" frameY="0" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0002" x="251" y="0" width="284" height="253" frameX="-187" frameY="-33" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0003" x="251" y="0" width="284" height="253" frameX="-187" frameY="-33" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0004" x="535" y="0" width="287" height="217" frameX="-514" frameY="-96" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0005" x="535" y="0" width="287" height="217" frameX="-514" frameY="-96" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0006" x="0" y="284" width="229" height="287" frameX="-921" frameY="-71" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0007" x="0" y="284" width="229" height="287" frameX="-921" frameY="-71" frameWidth="1575" frameHeight="358"/>
+	<SubTexture name="bottlethrow0008" x="229" y="284" width="237" height="287" frameX="-1338" frameY="-45" frameWidth="1575" frameHeight="358"/>
+</TextureAtlas>

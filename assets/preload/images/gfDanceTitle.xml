@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Full Gunter0000" x="0" y="0" width="1509" height="960" frameX="-8" frameY="-92" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0001" x="1519" y="0" width="1528" height="953" frameX="0" frameY="-111" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0002" x="3057" y="0" width="1528" height="952" frameX="0" frameY="-116" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0003" x="4595" y="0" width="1528" height="952" frameX="0" frameY="-119" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0004" x="6133" y="0" width="1528" height="952" frameX="0" frameY="-116" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0005" x="0" y="970" width="1509" height="960" frameX="-8" frameY="-92" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0006" x="1519" y="970" width="1491" height="969" frameX="-18" frameY="-56" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0007" x="3020" y="970" width="1456" height="990" frameX="-34" frameY="-21" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0008" x="4486" y="970" width="1474" height="976" frameX="-26" frameY="-21" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0009" x="5970" y="970" width="1491" height="968" frameX="-18" frameY="-12" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0010" x="0" y="1970" width="1491" height="968" frameX="-18" frameY="0" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0011" x="1501" y="1970" width="1491" height="969" frameX="-18" frameY="-3" frameWidth="1528" frameHeight="1071"/>
+	<SubTexture name="Full Gunter0012" x="3002" y="1970" width="1491" height="968" frameX="-18" frameY="-7" frameWidth="1528" frameHeight="1071"/>
+</TextureAtlas>

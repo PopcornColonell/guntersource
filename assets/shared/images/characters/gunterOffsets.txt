@@ -1,0 +1,8 @@
+idle 0 0
+singUP 100 209
+singRIGHT -12 53
+singLEFT 199 0
+singDOWN 57 2
+gaspStart 0 0
+gaspLoop 0 0
+gaspEnd 0 0
